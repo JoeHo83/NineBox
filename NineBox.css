@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background-color: rgb(255, 206, 255);
+}
+
+table {
+  width: 100%;
+}
+
+td,
+tr {
+  padding: 30px 10px;
+  border: 0px solid rgb(114, 2, 90);
+  font-size: 64px;
+  background-color: white;
+}
+
+button {
+  border: 0px solid rgb(179, 11, 179);
+  font-size: 30px;
+  background-color: violet;
+  color: white;
+  padding: 10px 50px;
+}
+
+h1 {
+  font-size: 40px;
+  color: white;
+  background: rgb(246, 160, 246);
+}
+
+h2 {
+  font-size: 30px;
+  color: rgb(179, 11, 179);
+}
+
+#previousButton {
+  position: relative;
+}
