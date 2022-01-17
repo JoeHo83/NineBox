@@ -3,11 +3,10 @@ body {
   background-color: rgb(255, 206, 255);
 }
 
-td,
-tr {
-  padding: 60px 80px;
+td {
+  padding: 100px 120px;
   border: 0px solid rgb(114, 2, 90);
-  font-size: 72px;
+  font-size: 120px;
   background-color: white;
 }
 
@@ -17,8 +16,9 @@ button {
   font-weight: bold;
   background-color: violet;
   color: white;
-  padding: 20px 60px;
-  margin: 20px;
+  padding: 40px 140px;
+  margin: 10px;
+  margin-top: 60px;
 }
 
 h1 {
@@ -34,10 +34,9 @@ caption {
   font-size: 50px;
   font-weight: bold;
   color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: rgb(6, 202, 202);
-  margin-bottom: 10px;
-}
-
-#previousButton {
-  position: relative;
+  margin-top: 80px;
+  margin-bottom: 40px;
 }
